@@ -13,12 +13,12 @@
   "main": "index.js",
   "license": "MIT",
   "peerDependencies": {
-    "gatsby": "^2.19.23",
+    "gatsby": "^2.19.25",
     "react": "^16.13.0",
     "react-dom": "^16.13.0"
   },
   "devDependencies": {
-    "gatsby": "^2.19.23",
+    "gatsby": "^2.19.25",
     "react": "^16.13.0",
     "react-dom": "^16.13.0"
   },
