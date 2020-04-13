@@ -1512,10 +1512,10 @@
     "@types/prop-types" "*"
     csstype "^2.2.0"
 
-"@types/rebass@^4.0.4":
-  version "4.0.4"
-  resolved "https://registry.yarnpkg.com/@types/rebass/-/rebass-4.0.4.tgz#48e74bb2c531e24298cbe8943ab64805291b3c87"
-  integrity sha512-JN3cns0vkjrs3zmPrR8Y45+74LO5ynhbnxkFGbSAeTUPGU5hxnezM42o409ioQGpgda2HiM2JK0SPBesXfH4gQ==
+"@types/rebass@^4.0.5":
+  version "4.0.5"
+  resolved "https://registry.yarnpkg.com/@types/rebass/-/rebass-4.0.5.tgz#cd6bc6b71c7fe46c18c4692e68235ae7fc306d0d"
+  integrity sha512-c2CLauMY//8Oig3M4+9oDRWn7wZjUlEcJwmQdojjRCX6OWL5ZHidcG4febD81WRMyu40fkx8QcvcPlcFCrh9Fw==
   dependencies:
     "@types/react" "*"
     "@types/styled-components" "*"
