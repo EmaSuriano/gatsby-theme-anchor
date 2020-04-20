@@ -41,7 +41,7 @@
     "gatsby-transformer-remark": "^2.7.3",
     "husky": "^4.2.5",
     "moment": "^2.24.0",
-    "netlify-cms-app": "^2.12.7",
+    "netlify-cms-app": "^2.12.9",
     "react-headroom": "^3.0.0",
     "react-helmet": "^5.2.1",
     "react-markdown": "^4.3.1",
