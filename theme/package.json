@@ -26,7 +26,7 @@
     "@emotion/core": "^10.0.28",
     "@mdx-js/react": "^1.5.8",
     "@types/rebass": "^4.0.5",
-    "@types/styled-components": "^5.0.1",
+    "@types/styled-components": "^5.1.0",
     "netlify-cms-backend-fs": "^0.4.4",
     "audiocard": "^1.0.0",
     "gatsby-plugin-emotion": "^4.1.22",
