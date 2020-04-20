@@ -916,7 +916,7 @@
     core-js-pure "^3.0.0"
     regenerator-runtime "^0.13.4"
 
-"@babel/runtime@^7.0.0", "@babel/runtime@^7.1.2", "@babel/runtime@^7.2.0", "@babel/runtime@^7.3.4", "@babel/runtime@^7.4.2", "@babel/runtime@^7.4.3", "@babel/runtime@^7.4.5", "@babel/runtime@^7.5.5", "@babel/runtime@^7.7.2", "@babel/runtime@^7.7.6", "@babel/runtime@^7.8.4", "@babel/runtime@^7.8.7":
+"@babel/runtime@^7.0.0", "@babel/runtime@^7.1.2", "@babel/runtime@^7.2.0", "@babel/runtime@^7.3.4", "@babel/runtime@^7.4.2", "@babel/runtime@^7.4.3", "@babel/runtime@^7.4.5", "@babel/runtime@^7.5.5", "@babel/runtime@^7.7.2", "@babel/runtime@^7.7.6", "@babel/runtime@^7.8.4", "@babel/runtime@^7.8.7", "@babel/runtime@^7.9.2":
   version "7.9.2"
   resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.9.2.tgz#d90df0583a3a252f09aaa619665367bae518db06"
   integrity sha512-NE2DtOdufG7R5vnfQUTehdTfNycfUANEtCa9PssN9O/xmTzP4E08UI797ixaei6hBEVL9BI/PsdJS5x7mWoB9Q==
@@ -14584,12 +14584,12 @@ yaml-loader@^0.5.0:
   dependencies:
     js-yaml "^3.5.2"
 
-yaml@^1.7.2, yaml@^1.8.3:
-  version "1.8.3"
-  resolved "https://registry.yarnpkg.com/yaml/-/yaml-1.8.3.tgz#2f420fca58b68ce3a332d0ca64be1d191dd3f87a"
-  integrity sha512-X/v7VDnK+sxbQ2Imq4Jt2PRUsRsP7UcpSl3Llg6+NRRqWLIvxkMFYtH1FmvwNGYRKKPa+EPA4qDBlI9WVG1UKw==
+yaml@^1.7.2, yaml@^1.8.3, yaml@^1.9.1:
+  version "1.9.1"
+  resolved "https://registry.yarnpkg.com/yaml/-/yaml-1.9.1.tgz#2df608ca571a0cf94e25e417e2795c08f48acdc5"
+  integrity sha512-xbWX1ayUVoW8DPM8qxOBowac4XxSTi0mFLbiokRq880ViYglN+F3nJ4Dc2GdypXpykrknKS39d8I3lzFoHv1kA==
   dependencies:
-    "@babel/runtime" "^7.8.7"
+    "@babel/runtime" "^7.9.2"
 
 yargs-parser@^11.1.1:
   version "11.1.1"
