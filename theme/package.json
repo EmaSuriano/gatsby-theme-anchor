@@ -38,7 +38,7 @@
     "gatsby-plugin-typescript": "^2.3.3",
     "gatsby-source-anchor": "^0.5.1",
     "gatsby-source-filesystem": "^2.2.4",
-    "gatsby-transformer-remark": "^2.7.3",
+    "gatsby-transformer-remark": "^2.7.5",
     "husky": "^4.2.5",
     "moment": "^2.24.0",
     "netlify-cms-app": "^2.12.9",
