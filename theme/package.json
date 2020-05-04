@@ -45,7 +45,7 @@
     "react-headroom": "^3.0.0",
     "react-helmet": "^5.2.1",
     "react-markdown": "^4.3.1",
-    "rebass": "^3.1.2",
+    "rebass": "^4.0.7",
     "styled-components": "^4.4.1",
     "typescript": "^3.8.3",
     "yaml": "^1.9.2"
