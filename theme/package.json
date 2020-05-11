@@ -43,7 +43,7 @@
     "moment": "^2.24.0",
     "netlify-cms-app": "^2.12.12",
     "react-headroom": "^3.0.0",
-    "react-helmet": "^5.2.1",
+    "react-helmet": "^6.0.0",
     "react-markdown": "^4.3.1",
     "rebass": "^3.1.2",
     "styled-components": "^4.4.1",
