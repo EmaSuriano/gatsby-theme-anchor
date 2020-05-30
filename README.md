@@ -1,6 +1,8 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d472f990-9300-4406-a5a0-388ca0662966/deploy-status)](https://app.netlify.com/sites/gatsby-theme-anchor/deploys)
-
 # Gatsby Theme Anchor
+
+**⚠️ Project not longer mantained. I don't have plans to remove the project from Github, so you can use the theme for your projects ⚠️**
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d472f990-9300-4406-a5a0-388ca0662966/deploy-status)](https://app.netlify.com/sites/gatsby-theme-anchor/deploys)
 
 <p align="center">
   <a href="https://gatsby-theme-anchor.netlify.com/">
